@@ -18,7 +18,7 @@
 
   /* Nền trang */
   #background {
-    background-image: url("/images/img1.jpeg");
+    background-image: url("../images/img1.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
